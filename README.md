@@ -1,7 +1,8 @@
 # Testimonials grid section main
 
 Testimonials section based on a design made by Frontend Mentor.
-This project was created using HTML, SCSS and JS. The responsiveness was kept the same as the original design, 375px for mobile, 1440px for laptop. 
+This project was created using HTML, SCSS and JS. The responsiveness was kept the same as the original design, 375px for mobile, 1440px for laptop. <br>
+Live demo: https://testimonials-grid-section-main-y281.onrender.com
 <br>
 <br>
 <p>
